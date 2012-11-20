@@ -12,6 +12,7 @@ import org.trs.entity.key.TDAMaxRateElecHistoryKey;
 
 /**
  * @author Lana
+ * Added to Git
  * 
  */
 public interface TDAMaxRteElectionHistoryDao {
